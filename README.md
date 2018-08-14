@@ -1,2 +1,3 @@
 # hello-world
-A novice here.
+A novice here. 
+Start learning.
